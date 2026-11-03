@@ -1,0 +1,15 @@
+2026-11-02 15:40:01,217  Connected to paper account. Equity: $100,000.00
+2026-11-02 15:40:01,294  Market closed, waiting...
+2026-11-02 20:21:24,086  Connected to paper account. Equity: $100,000.00
+2026-11-02 20:21:24,441  SPY: last close 752.04 | holding=False | signal=hold
+2026-11-02 20:21:24,522  AAPL: last close 338.7 | holding=False | signal=buy
+2026-11-02 20:21:24,603  AAPL: BUY $1000 submitted
+2026-11-02 20:21:24,687  MSFT: last close 507 | holding=False | signal=buy
+2026-11-02 20:21:24,765  MSFT: BUY $1000 submitted
+2026-11-03 07:29:42,515  Connected to paper account. Equity: $100,019.13
+2026-11-03 07:29:43,139  SPY: last close 754.45 | holding=False | signal=hold
+2026-11-03 07:29:43,229  AAPL: last close 330.36 | holding=True | signal=hold
+2026-11-03 07:29:43,350  MSFT: last close 514.6 | holding=True | signal=hold
+2026-11-03 07:44:43,967  SPY: last close 755.46 | holding=False | signal=hold
+2026-11-03 07:44:44,094  AAPL: last close 329.675 | holding=True | signal=hold
+2026-11-03 07:44:44,176  MSFT: last close 515.15 | holding=True | signal=hold
